@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Airline Tickets</string>
+    <string name="flight">FLIGHTS</string>
+    <string name="depature">"Depature"</string>
+    <string name="choose_depature">Choose Depature</string>
+    <string name="destination">Destination</string>
+    <string name="choose_arrival">Choose Arrival</string>
+    <string name="depature_date">Depature Date</string>
+    <string name="return_date">Return Date</string>
+    <string name="cabin_class">Cabin Class</string>
+    <string name="search_flights">SEARCH FHIGHTS</string>
+    <string name="choose_class">CHOOSE CLASS</string>
+    <string name="number_of_passengers">Number Of Passenger:</string>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CLASS"
+    android:orientation="vertical">
+    <Button
+        android:id="@+id/btn_economy"
+        style="@style/airline"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="Economy"></Button>
+    <Button
+        android:id="@+id/btn_Premium_Economy"
+        style="@style/airline"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="Premium Economy"></Button>
+    <Button
+        android:id="@+id/btn_Business_Class"
+        style="@style/airline"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="Business Class"></Button>
+    <Button
+        android:id="@+id/btn_first_Class"
+        style="@style/airline"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="First Class"></Button>
+
+
+</LinearLayout>
